@@ -6,7 +6,7 @@ rdiscount:
   extensions: [smart]
 title : Henry Sztul
 production_url : http://hsztul.github.io
-description: "Througths, flamewars, utilities, tutorials, codes, projects and other things by Carlos Alexandro Becker."
+description: "Physicist, Entrepenuer, Dad. Building Shelby.tv"
 disqus_shortname: henryaym
 analytics:
 gauges:
